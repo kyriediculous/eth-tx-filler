@@ -24,6 +24,6 @@ FROM scratch AS runtime
 
 COPY --from=builder /app /app
 COPY keystore /keystore
-COPY password.txt /password.txt
+COPY password.txt password.txt
 
 ENTRYPOINT ["/app"]
