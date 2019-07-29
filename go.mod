@@ -10,6 +10,7 @@ require (
 	github.com/elastic/gosigar v0.10.4 // indirect
 	github.com/ethereum/go-ethereum v1.9.0
 	github.com/fatih/color v1.7.0 // indirect
+	github.com/fjl/memsize v0.0.0-20190710130421-bcb5799ab5e5 // indirect
 	github.com/gballet/go-libpcsclite v0.0.0-20190607065134-2772fd86a8ff // indirect
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
@@ -34,5 +35,7 @@ require (
 	golang.org/x/net v0.0.0-20190628185345-da137c7871d7 // indirect
 	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
 	golang.org/x/text v0.3.2 // indirect
+	gopkg.in/olebedev/go-duktape.v3 v3.0.0-20190709231704-1e4459ed25ff // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
+	gopkg.in/urfave/cli.v1 v1.20.0 // indirect
 )
